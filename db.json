@@ -1,0 +1,13 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "Shahariar Niloy",
+      "email": "test@gmail.com",
+      "phone": "01452365477",
+      "image": "https://joeschmoe.io/api/v1/male/3",
+      "address": "221b Baker Street",
+      "about": "Love music and singing song, & writing code !!"
+    }
+  ]
+}
